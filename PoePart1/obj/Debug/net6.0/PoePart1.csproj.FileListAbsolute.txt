@@ -1,0 +1,15 @@
+C:\Users\kaash\source\repos\PoePart1\PoePart1\bin\Debug\net6.0\PoePart1.exe
+C:\Users\kaash\source\repos\PoePart1\PoePart1\bin\Debug\net6.0\PoePart1.deps.json
+C:\Users\kaash\source\repos\PoePart1\PoePart1\bin\Debug\net6.0\PoePart1.runtimeconfig.json
+C:\Users\kaash\source\repos\PoePart1\PoePart1\bin\Debug\net6.0\PoePart1.dll
+C:\Users\kaash\source\repos\PoePart1\PoePart1\bin\Debug\net6.0\PoePart1.pdb
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.csproj.AssemblyReference.cache
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.AssemblyInfoInputs.cache
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.AssemblyInfo.cs
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.csproj.CoreCompileInputs.cache
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.dll
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\refint\PoePart1.dll
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.pdb
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\PoePart1.genruntimeconfig.cache
+C:\Users\kaash\source\repos\PoePart1\PoePart1\obj\Debug\net6.0\ref\PoePart1.dll
